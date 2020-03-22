@@ -1,1 +1,1 @@
-# Detecting-Malaria-accuracy-96-
+# Detecting-Malaria-cell-accuracy-96%
