@@ -1,4 +1,4 @@
-# Malaria cell Detection            
+# Malaria cell Classification            
 
 
 >Dataset download link: https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria/download
