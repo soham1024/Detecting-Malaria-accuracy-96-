@@ -1,4 +1,4 @@
-# Detecting-Malaria-cell-accuracy-96%             
+# Malaria cell Detection            
 
 
 >Dataset download link: https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria/download
